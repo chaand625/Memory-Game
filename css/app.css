@@ -130,15 +130,15 @@ h1 {
 
 @media only screen and (min-device-width:481px) and (max-device-width:768px) {
     .deck {
-        width: 460px;
-        min-height: 580px;
+        width: 600px;
+        min-height: 640px;
         padding: 9px;
         margin: 10px;
     }
 
     .deck .card {
-        height: 100px;
-        width: 100px;
+        height: 120px;
+        width: 120px;
     }
 
 }
